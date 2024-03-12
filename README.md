@@ -16,7 +16,7 @@ MONGODBCONNECTIONSTRING=<mongodb+srv://bavithrasjh:hCnXkvIGJpgKXWar@cluster0.qyk
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/bavi2477/Day-38-Task.git>
+   git clone <https://github.com/bavi2477/Day-39-Task.git>
 
 2. **Install dependencies**
    ```bash
